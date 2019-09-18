@@ -6,7 +6,8 @@ public class GitTest {
         System.out.println("4");
         System.out.println("5");
         System.out.println("second day");
-        System.out.println("new text");
+        System.out.println("new text ");
+        int a=1;
 
 
 
